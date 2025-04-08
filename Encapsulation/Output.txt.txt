@@ -1,0 +1,9 @@
+Input:
+1,Donne Biryani,donnebiryani@gmail.com,6677889955,Btm layout Bengaluru
+
+Output:
+1
+Donne Biryani
+donnebiryani@gmail.com
+6677889955
+Btm layout Bengaluru

@@ -1,0 +1,16 @@
+Sample Inputs & Outputs
+
+
+Sample Input 1:
+Manager
+Alice,60000,10000
+
+Sample Output 1:
+Annual Salary of Manager: 730000.00
+
+Sample Input 2
+Engineer
+Bob,50000,5000
+
+Sample Output 2
+Annual Salary of Engineer: 605000.00
